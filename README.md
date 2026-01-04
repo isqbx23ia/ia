@@ -1,14 +1,6 @@
-# Meus Códigos 🧠💻
+# Códigos que tentei escrever
 
-Repositório com códigos que estou estudando e desenvolvendo.
-
-- Alguns feitos por mim, enquanto aprendo.
-- Outros são baseados nas aulas do professor **Wagner** 👨‍🏫.
-
-### Linguagens
-
-- Python 🐍  
-- Em breve: JavaScript, C, e outras!
+# Aleatórios
 
 ### Observações
 
