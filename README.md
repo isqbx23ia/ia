@@ -1,2 +1,2 @@
-#Códigos de python.
+#Códigos de Python e C.
 ---
